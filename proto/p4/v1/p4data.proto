@@ -15,7 +15,7 @@
 syntax = "proto3";
 
 package p4.v1;
-option go_package = "github.com/p4lang/p4runtime/proto/p4/v1";
+option go_package = "github.com/abhilashendurthi/p4runtime/proto/p4/v1";
 
 message P4Data {
   oneof data {

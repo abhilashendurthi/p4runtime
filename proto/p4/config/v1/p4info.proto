@@ -20,7 +20,7 @@ import "p4/config/v1/p4types.proto";
 // This package and its contents are a work-in-progress.
 
 package p4.config.v1;
-option go_package = "github.com/p4lang/p4runtime/proto/p4/config/v1";
+option go_package = "github.com/abhilashendurthi/p4runtime/proto/p4/config/v1";
 
 message P4Info {
   PkgInfo pkg_info = 1;
